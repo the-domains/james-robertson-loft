@@ -1,0 +1,28 @@
+name: James Robertson Loft
+favicon: null
+layout_spectrum: 0.7174266031943262
+typography_spectrum: 0.5356301018036902
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.7537305324804038
+  lightness: 0.9323662826791406
+  saturation: 0.184020641958341
+  rhythmicContrast: 0.5968065585475415
+purpose: []
