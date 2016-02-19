@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[James Loft]]></title>
-        <description><![CDATA[James Loft]]></description>
+        <title><![CDATA[James Robertson Loft]]></title>
+        <description><![CDATA[James Robertson Loft]]></description>
         <link>https://thegrid.ai/james-robertson-loft/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 19 Feb 2016 19:38:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Feb 2016 20:49:29 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/james-robertson-loft/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Matter Work - I am currently the COO at Matter in London]]></title>
@@ -15,10 +15,17 @@
         </item>
         <item>
             <title><![CDATA[ ]]></title>
-            <description><![CDATA[<article><h1></h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7bc80c5-0166-4045-b642-172c2c38fcd3.jpg"></article>]]></description>
+            <description><![CDATA[<article><h1></h1><p>Currently leading a team of talented consultants, developers and designers working to support organisations on their mission to achieve amazing products and experiences for their customers. </p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0783feb08b991fab109a2b37300762c45c25737f.jpg"></article>]]></description>
             <link>https://thegrid.ai/james-robertson-loft/9721e051-6dd6-4795-b7ec-cbb177d9e9ce/index.html</link>
             <guid isPermaLink="false">9721e051-6dd6-4795-b7ec-cbb177d9e9ce</guid>
             <pubDate>Fri, 19 Feb 2016 19:36:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[I have been thinking a lot this week about change!]]></title>
+            <description><![CDATA[<article><h1>I have been thinking a lot this week about change!</h1><p>What do we do if we have a truly needed change that is also truly immediate? </p></article>]]></description>
+            <link>https://thegrid.ai/james-robertson-loft/i-have-been-thinking-a-lot-this-week-about-change/index.html</link>
+            <guid isPermaLink="false">86d42d30-36f3-4f42-a94e-14676e9ef925</guid>
+            <pubDate>Fri, 19 Feb 2016 20:47:44 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[You can't make a fish climb a tree.]]></title>
