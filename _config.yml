@@ -1,7 +1,7 @@
 name: James Robertson Loft
 favicon: null
-layout_spectrum: 0.51951
-typography_spectrum: 0.73528
+layout_spectrum: 0.48305
+typography_spectrum: 0.5191
 collections:
   - index:
       path: /
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#000000'
-    - '#bbbbbb'
-    - '#5d5d5d'
-    - '#808080'
-    - '#3e3e3e'
-  brandStrength: 0.8125
-  lightness: 0.75
-  saturation: 0.25
-  rhythmicContrast: 0.75
+    - '#463d40'
+    - '#0f0e13'
+    - '#7e807f'
+    - '#baa499'
+    - '#bc6730'
+  brandStrength: 1
+  lightness: 0.5
+  saturation: 0.125
+  rhythmicContrast: 1
 purpose: []
